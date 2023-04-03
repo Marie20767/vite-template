@@ -1,4 +1,6 @@
-# ViteTemplate
+# React Template with Vite by Marie Impens
+
+Personal React template using Vite to create React apps inlcuding Typescript faster.
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
@@ -6,7 +8,7 @@
 
 ## Development server
 
-Run `nx serve vite-template` for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+Run `nx serve vite-template` for a dev server. Navigate to http://localhost:3000/. The app will automatically reload if you change any of the source files.
 
 ## Understand this workspace
 

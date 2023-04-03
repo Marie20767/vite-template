@@ -1,14 +1,11 @@
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
-import styles from './app.module.scss';
+// import styles from './app.module.scss';
 
-import NxWelcome from './nx-welcome';
-
-export function App() {
+const App = () => {
   return (
     <>
-      <NxWelcome title="vite-template" />
-
-      <div />
+      <h1>Hello World</h1>
+      <p>This was created using Vite</p>
     </>
   );
 }
